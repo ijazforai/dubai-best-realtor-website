@@ -106,7 +106,7 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: Investor-First Approach
-        subtitle: Faster
+        subtitle: ''
         text: >
           We understand ROI. Whether you're a first-time buyer or seasoned
           investor, we help you choose properties that grow in value.
