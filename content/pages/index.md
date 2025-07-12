@@ -81,7 +81,7 @@ sections:
             self:
               borderRadius: x-large
         tagline: ''
-      - title: 20x
+      - title: Guidance
         subtitle: ''
         text: >
           From property selection to paperwork and handover, we guide you
