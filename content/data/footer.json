@@ -7,12 +7,6 @@
     "text": "Your local and global partner for buying, selling, leasing, and commercial operations. Honest consultancy, dedicated team, finest luxury real estate in Dubai.\n",
     "socialLinks": [
         {
-            "altText": "Twitter link",
-            "url": "https://twitter.com/netlify",
-            "icon": "twitter",
-            "type": "Social"
-        },
-        {
             "altText": "Email link",
             "url": "/",
             "icon": "mail",
