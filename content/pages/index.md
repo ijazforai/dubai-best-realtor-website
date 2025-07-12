@@ -83,10 +83,9 @@ sections:
               borderRadius: x-large
       - title: 20x
         subtitle: The Job Stuff
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          From property selection to paperwork and handover, we guide you
+          through every step to ensure a smooth and stress-free experience.
         image:
           url: /images/icon2.svg
           altText: Featured icon two
