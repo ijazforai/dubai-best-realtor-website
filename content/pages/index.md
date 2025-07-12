@@ -111,7 +111,6 @@ sections:
           We understand ROI. Whether you're a first-time buyer or seasoned
           investor, we help you choose properties that grow in value.
         image:
-          url: /images/icon3.svg
           altText: Featured icon three
           elementId: ''
           type: ImageBlock
