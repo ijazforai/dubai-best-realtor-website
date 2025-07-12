@@ -80,7 +80,7 @@ sections:
           styles:
             self:
               borderRadius: x-large
-        tagline: Off-Plan Property Expertise
+        tagline: ''
       - title: 20x
         subtitle: ''
         text: >
