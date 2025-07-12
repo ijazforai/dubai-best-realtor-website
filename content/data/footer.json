@@ -40,7 +40,7 @@
             },
             {
                 "type": "Link",
-                "label": "Blog",
+                "label": "Contact",
                 "altText": "",
                 "url": "/blog",
                 "showIcon": false,
