@@ -14,7 +14,7 @@
         {
             "label": "About",
             "altText": "Blog",
-            "url": "/blog",
+            "url": "#aboutus",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
