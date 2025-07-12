@@ -7,7 +7,7 @@ sections:
       text: Discover Premium Properties with Dubai Best Realtor
       color: text-dark
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: ''
     text: >
       From luxurious off-plan developments to ready-to-move-in homes, we help
       investors and families find the perfect property in the heart of Dubai.
