@@ -22,5 +22,33 @@
     "copyrightText": "Powered by [Netlify](https://www.netlify.com/)\n",
     "colors": "bg-dark-fg-light",
     "type": "Footer",
-    "title": "Dubai Best Realtor"
+    "title": "Dubai Best Realtor",
+    "primaryLinks": {
+        "type": "FooterLinksGroup",
+        "title": "Company",
+        "links": [
+            {
+                "type": "Link",
+                "label": "About",
+                "altText": "",
+                "url": "/",
+                "showIcon": false,
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "style": "secondary",
+                "elementId": ""
+            },
+            {
+                "type": "Link",
+                "label": "Blog",
+                "altText": "",
+                "url": "/blog",
+                "showIcon": false,
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "style": "secondary",
+                "elementId": ""
+            }
+        ]
+    }
 }
