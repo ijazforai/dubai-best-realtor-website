@@ -12,18 +12,18 @@
     },
     "primaryLinks": [
         {
-            "label": "About",
-            "altText": "Blog",
-            "url": "#aboutus",
+            "label": "Home",
+            "altText": "Careers page",
+            "url": "/",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
             "type": "Link"
         },
         {
-            "label": "Home",
-            "altText": "Careers page",
-            "url": "/",
+            "label": "About",
+            "altText": "Blog",
+            "url": "#aboutus",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
