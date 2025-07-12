@@ -5,14 +5,7 @@
         "type": "ImageBlock"
     },
     "text": "Your local and global partner for buying, selling, leasing, and commercial operations. Honest consultancy, dedicated team, finest luxury real estate in Dubai.\n",
-    "socialLinks": [
-        {
-            "altText": "Email link",
-            "url": "/",
-            "icon": "mail",
-            "type": "Social"
-        }
-    ],
+    "socialLinks": [],
     "legalLinks": [
         {
             "label": "Terms",
