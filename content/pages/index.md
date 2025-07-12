@@ -104,7 +104,7 @@ sections:
             textAlign: left
             justifyContent: center
         type: FeaturedItem
-      - title: Investor-First Approach
+      - title: Approach
         subtitle: ''
         text: >
           We understand ROI. Whether you're a first-time buyer or seasoned
