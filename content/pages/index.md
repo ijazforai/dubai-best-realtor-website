@@ -45,7 +45,7 @@ sections:
           - pr-16
   - type: FeaturedItemsSection
     title:
-      text: Key Benefits
+      text: 'We Simplify Real Estate, So You Can Focus on What Matters'
       color: text-dark
       styles:
         self:
