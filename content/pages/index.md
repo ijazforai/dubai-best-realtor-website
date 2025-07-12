@@ -9,9 +9,10 @@ sections:
       type: TitleBlock
     subtitle: Subtitle goes here
     text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+      From luxurious off-plan developments to ready-to-move-in homes, we help
+      investors and families find the perfect property in the heart of Dubai.
+      Backed by local expertise and a commitment to transparency, we make real
+      estate simple, secure, and profitable.
     actions:
       - label: Get started
         altText: ''
