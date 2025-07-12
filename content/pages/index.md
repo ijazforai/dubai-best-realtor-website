@@ -54,7 +54,7 @@ sections:
     subtitle: ''
     items:
       - type: FeaturedItem
-        title: 500k
+        title: ''
         subtitle: ''
         text: >
           We help you access high-potential off-plan projects directly from top
