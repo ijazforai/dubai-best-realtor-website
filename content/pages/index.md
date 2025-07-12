@@ -174,7 +174,7 @@ sections:
         textAlign: center
     type: ImageGallerySection
   - title:
-      text: Generic Section With A Form
+      text: Seeking a
       color: text-dark
       type: TitleBlock
     subtitle: Section with a form subtitle
