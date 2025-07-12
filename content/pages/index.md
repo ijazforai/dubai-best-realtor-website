@@ -37,7 +37,7 @@ sections:
       elementId: ''
       type: ImageBlock
     badge:
-      label: This is a badge
+      label: Your Trusted Real Estate Partner in Dubai
       color: text-primary
       type: Badge
     elementId: ''
