@@ -55,7 +55,7 @@ sections:
     items:
       - type: FeaturedItem
         title: ''
-        subtitle: ''
+        subtitle: Off-Plan Property Expertise
         text: >
           We help you access high-potential off-plan projects directly from top
           Dubai developers with early-buyer pricing and exclusive offers.
