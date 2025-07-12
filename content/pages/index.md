@@ -87,7 +87,6 @@ sections:
           From property selection to paperwork and handover, we guide you
           through every step to ensure a smooth and stress-free experience.
         image:
-          url: /images/icon2.svg
           altText: Featured icon two
           elementId: ''
           type: ImageBlock
