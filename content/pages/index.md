@@ -105,7 +105,7 @@ sections:
             textAlign: left
             justifyContent: center
         type: FeaturedItem
-      - title: 200%
+      - title: Investor-First Approach
         subtitle: Faster
         text: >
           We understand ROI. Whether you're a first-time buyer or seasoned
