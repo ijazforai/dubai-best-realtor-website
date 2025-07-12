@@ -174,7 +174,7 @@ sections:
         textAlign: center
     type: ImageGallerySection
   - title:
-      text: Seeking a
+      text: Seeking Expert Guidance?
       color: text-dark
       type: TitleBlock
     subtitle: Section with a form subtitle
