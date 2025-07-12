@@ -146,7 +146,7 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-  - subtitle: Award winning enterprises trust us
+  - subtitle: Partnered with Dubai’s Most Trusted Developers
     images:
       - altText: Empathy logo
         type: ImageBlock
