@@ -160,7 +160,7 @@ sections:
       - url: /images/ellington.png
         altText: Telus logo
         type: ImageBlock
-      - url: /images/contenful-logo.svg
+      - url: /images/meraas.png
         altText: Contentful logo
         type: ImageBlock
       - url: /images/danube.png
