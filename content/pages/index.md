@@ -81,7 +81,7 @@ sections:
             self:
               borderRadius: x-large
       - title: 20x
-        subtitle: The Job Stuff
+        subtitle: ''
         text: >
           From property selection to paperwork and handover, we guide you
           through every step to ensure a smooth and stress-free experience.
