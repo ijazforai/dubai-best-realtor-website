@@ -234,7 +234,11 @@ sections:
     type: GenericSection
 seo:
   metaTitle: Home
-  metaDescription: This demo site is built with Netlify Create.
+  metaDescription: >-
+    Dubai Best Realtor is a trusted real estate consultancy in Dubai,
+    specializing in off-plan properties, buying, and renting. We help investors
+    and families find the right property with expert guidance and full
+    transparency.
   socialImage: /images/main-hero.jpg
   type: Seo
 type: PageLayout
