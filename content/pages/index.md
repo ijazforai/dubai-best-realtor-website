@@ -178,11 +178,11 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: ''
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: >
+      Whether you need assistance from Property Consultants or any other real
+      estate specialists, our team is ready to assist you. We are only a phone
+      call away or you can fill out the form and one of our expert advisors will
+      contact you.
     media:
       fields:
         - name: name
