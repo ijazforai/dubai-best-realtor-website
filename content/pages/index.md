@@ -54,7 +54,7 @@ sections:
     subtitle: ''
     items:
       - type: FeaturedItem
-        title: ''
+        title: Off-Plan Property Expertise
         subtitle: ''
         text: >
           We help you access high-potential off-plan projects directly from top
